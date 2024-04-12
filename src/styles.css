@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.heading {
+  margin-left: 0.8em;
+}
+
+.text {
+  margin: 0.4em 0.8em;
+}
+
+.form {
+  display: flex;
+}
+
+.input {
+  width: 50%;
+  font-size: 1.8em;
+  margin: 0 0.4em;
+  text-align: center;
+  padding: 0.3em 0.3em;
+  border-radius: 0.2em;
+  outline: none;
+  border: 1px solid #bebebe;
+  margin-bottom: 0.5em;
+}
+
+.button {
+  background-color: #4caf50;
+  border-radius: 5%;
+  border: none;
+  color: white;
+  padding: 0px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0px 2px;
+  cursor: pointer;
+  height: 52px;
+}
